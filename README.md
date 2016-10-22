@@ -6,7 +6,7 @@ Fair Allocation of Independent Resources statistically analyzes resource allocat
 
 Mod compatibility
 =================
-Compatible with all map generators, including Resource Space Optimizer (RSO)
+Compatible with all map generators, including Resource Spawner Overhaul (RSO)
 
 Contributing
 ============
